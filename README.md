@@ -2,10 +2,9 @@
 
 **`Estudante de Programação`**
 
-Me chamo Josué e estou iniciando minha jornada na programação. Atualmente estudo por conta própria, buscando aprender cada vez mais, e tenho planos de futuramente cursar uma faculdade na área de tecnologia.
-Tenho interesse especial pelo desenvolvimento back-end, mas também venho explorando ferramentas do front-end para ampliar meus conhecimentos e me tornar um desenvolvedor completo.
-Já possuo noções de Python e, no momento, estou focado em HTML5, CSS3 e JavaScript. Gosto de aprender, enfrentar desafios e transformar ideias em soluções por meio da tecnologia.
-Em breve, pretendo compartilhar meus projetos e aprendizados nas redes sociais para inspirar outras pessoas que também estão começando.
+Me chamo Josué, estudante de Análise e Desenvolvimento de Sistemas na SPTech. Minha trajetória na programação começou de forma autodidata, movida por curiosidade e paixão por resolver problemas com tecnologia.
+Hoje, sigo aprofundando meus conhecimentos com foco em desenvolvimento web, explorando tanto o front-end (HTML, CSS e JavaScript) quanto o back-end com Python. Acredito na prática contínua e na troca de experiências como formas poderosas de crescimento.
+Estou construindo meu portfólio e em breve pretendo compartilhar projetos que refletem meu aprendizado e minha evolução como desenvolvedor.
 
 ## 🤖 Linguagens e Tecnologias
 
