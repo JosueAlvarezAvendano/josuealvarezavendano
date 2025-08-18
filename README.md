@@ -1,4 +1,4 @@
-# 👨‍💻 Josué Alvarez
+# 👨‍💻 Josué Alvarez Avendano
 
 **`Estudante de Programação`**
 
