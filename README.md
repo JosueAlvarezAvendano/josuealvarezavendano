@@ -8,7 +8,7 @@ Estou construindo meu portfólio e em breve pretendo compartilhar projetos que r
 
 ## 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,mysql)](https://skillicons.dev)
 
 ## 📬 Encontre-me aqui
 
