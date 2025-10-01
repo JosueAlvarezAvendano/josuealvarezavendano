@@ -10,13 +10,6 @@ Estou construindo meu portfólio e em breve pretendo compartilhar projetos que r
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="margin-right: 40px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="margin-right: 40px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="margin-right: 40px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-</div>
-
 ## 📬 Encontre-me aqui
 
 <div align="left">
