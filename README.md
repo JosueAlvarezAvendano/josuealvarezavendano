@@ -1,10 +1,21 @@
-# 👨‍💻 Josué Alvarez Avendano
+# 💻 Josué Alvarez Avendano
+### Desenvolvedor Back-End | Estagiário SAP ABAP na Minsait (Indra Group)
 
-**`Estudante de Programação`**
+Olá! Sou o Josué, estudante de Análise e Desenvolvimento de Sistemas na SPTech. Minha trajetória na tecnologia começou de forma autodidata, movida pela paixão por resolver problemas, e hoje busco evoluir diariamente dentro do ecossistema corporativo.
 
-Me chamo Josué, estudante de Análise e Desenvolvimento de Sistemas na SPTech. Minha trajetória na programação começou de forma autodidata, movida por curiosidade e paixão por resolver problemas com tecnologia.
-Hoje, sigo aprofundando meus conhecimentos com foco em desenvolvimento web, explorando tanto o front-end (HTML, CSS e JavaScript) quanto o back-end com Python. Acredito na prática contínua e na troca de experiências como formas poderosas de crescimento.
-Estou construindo meu portfólio e em breve pretendo compartilhar projetos que refletem meu aprendizado e minha evolução como desenvolvedor.
+🚀 **No momento:**
+- 💼 Atuo como Estagiário na área de **SAP ABAP (Time Utilities)** na Minsait, aprendendo sobre lógica de negócios, arquitetura ERP e desenvolvimento voltado a grandes sistemas.
+
+📚 **Bagagem Técnica & Prática (Projetos Acadêmicos e Pessoais):**
+Através dos projetos práticos integrados da faculdade, tenho desenvolvido familiaridade e autonomia nas seguintes frentes:
+
+- **Desenvolvimento Web & Software:** Conhecimento prático em lógica e Programação Orientada a Objetos com **Java**, além de desenvolvimento front-end/back-end com **JavaScript (Node.js), HTML5 e CSS3**.
+- **Modelagem & Engenharia de Software:** Noções de engenharia de requisitos (mapeamento de escopo, restrições e premissas), modelagem de processos com **BPMN (Gap Analysis)** e diagramação UML (**Classes, Casos de Uso e Sequência**).
+- **Banco de Dados:** Criação de estruturas relacionais, modelagem (DER) e escrita de consultas com **MySQL**.
+- **Fundamentos de DevOps & Cloud:** Experiência prática na criação de ambientes isolados com **Docker e Docker Compose**, além de conceitos de cloud computing utilizando serviços da **AWS (EC2, S3, IAM e AMIs)**.
+
+🛠️ **Meus Objetivos:**
+Meu objetivo a médio prazo é me consolidar como um **Desenvolvedor Full Stack**. Para construir uma base de engenharia sólida, escolhi focar e me especializar inicialmente no **Back-End** (infraestrutura, segurança e banco de dados), para em seguida expandir e aprimorar meus conhecimentos no **Front-End**.
 
 ## 🤖 Linguagens e Tecnologias
 
